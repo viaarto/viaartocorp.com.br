@@ -1,4 +1,4 @@
-baseURL       = ""
+baseURL       = "."
 languageCode  = "pt-br"
 title         = "Via Arto - Brindes Personalizados | Brindes Corporativos | Produtos Personalizados"
 theme         = "roxo-hugo"
@@ -14,7 +14,7 @@ resizeImages = "true"
 enableEmoji = "true"
 enableGitInfo = "true"
 canonifyURLs = "true"
-relativeURLs = true
+relativeURLs = "true"
 
 [blackfriday]
 hrefTargetBlank = true
