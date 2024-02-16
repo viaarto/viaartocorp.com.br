@@ -14,6 +14,7 @@ resizeImages = "true"
 enableEmoji = "true"
 enableGitInfo = "true"
 canonifyURLs = "true"
+relativeURLs = true
 
 [blackfriday]
 hrefTargetBlank = true
